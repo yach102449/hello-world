@@ -1,2 +1,2 @@
 # hello-world
-This is the first time I use github
+I'd like to add some featurs to this project
